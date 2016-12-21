@@ -1,0 +1,6 @@
+/scratch/<vunetid>/stack-archives/xml/stackoverflow.com/Posts.xml.gz
+/scratch/<vunetid>/stack-archives/xml/stackoverflow.com/Comments.xml.gz
+/scratch/<vunetid>/stack-archives/xml/stackoverflow.com/Badges.xml.gz
+/scratch/<vunetid>/stack-archives/xml/stackoverflow.com/Users.xml.gz
+/scratch/<vunetid>/stack-archives/xml/stackoverflow.com/Tags.xml.gz
+/scratch/<vunetid>/stack-archives/xml/stackoverflow.com/PostHistory.xml.gz
